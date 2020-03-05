@@ -1,0 +1,28 @@
+1	introduction
+		introduction 2 page
+		about whole project
+		not woking
+		1 para iot se related hoga field kyu important hai
+		focus area iot and cloud
+		2-3 para about project what not how 
+		do not use i and we 
+		ffacility
+		last para how much work is done not how focus on result
+	
+2 	requirenment
+		about all hardware and softwae
+		explain each sensor and board
+		explain board first
+
+3 	proposed model/architecture
+		explain layout
+		flow chart
+		ciruit dia
+		how it work
+
+4 result analysis
+		on differt parameter
+
+5 conclusion
+		1 para
+	
